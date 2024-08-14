@@ -1,0 +1,1 @@
+from .trivial import trivial_impl  # noqa: 401

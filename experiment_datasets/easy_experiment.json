@@ -1,0 +1,22 @@
+[
+  {
+    "ruleset_code": "LR",
+    "field_side": 256,
+    "checksum": 46040866
+  },
+  {
+    "ruleset_code": "RL",
+    "field_side": 256,
+    "checksum": 92667538
+  },
+  {
+    "ruleset_code": "RL",
+    "field_side": 512,
+    "checksum": 36889502
+  },
+  {
+    "ruleset_code": "RL",
+    "field_side": 1024,
+    "checksum": 19117560
+  }
+]
